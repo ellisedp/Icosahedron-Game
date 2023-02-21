@@ -5,4 +5,6 @@ An Icosahedron has 20 sides (each of which is an equilateral triangle). Suppose 
 - Player A rolls the die 10 times, and computes the sum of all the 10 numbers that show up.
 - Player B rolls the die 10 times, and computes the sum of all the 10 numbers that show up. 
         
-Whichever player gets the higher sum is the winner. In case of a tie (the sums are equal),then they play again.
+Whichever player gets the higher sum is the winner. In case of a tie (the sums are equal), then they play again.
+
+You have $100 at the start of the game. You can bet up to this amount each round on who you think will win. Play until you run out of money!
